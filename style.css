@@ -1,0 +1,57 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.headers_menu {
+    list-style: none;
+    margin: 0;
+    padding: 20px;
+}
+
+li {
+    display: inline;
+    padding-left: 240px;
+    color: red;
+}
+
+a {
+    text-decoration: none;
+    color: red;
+}
+
+main {
+text-align: center;
+}
+
+.image {
+    width: 100%;
+}
+
+.first_text,
+.second_text {
+    margin-top: 35px;
+    text-align: center;
+}
+
+.header_text {
+    margin-top: 35px;
+}
+
+.button {
+    background-color: red;
+    color: white;
+    border-radius: 8px;
+    width: 140px;
+    margin: 0 auto;
+    padding: 12px;
+    text-align: center;
+    display:block ;
+    margin-top: 100px;
+}
+
+.copyright {
+text-align: right;
+margin-top: 100px;
+padding: 20px;
+}
